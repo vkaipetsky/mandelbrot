@@ -15,7 +15,7 @@
 
 #define MAX_NODS 64
 
-const int factor = 4;
+const int factor = 2;
 const int windowWidth = 64 * factor * 4;
 const int windowHeight = 64 * factor * 3;
 
